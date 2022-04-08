@@ -1,0 +1,20 @@
+{
+  "name": "repo12",
+  "version": "1.0.0",
+  "description": "New day - new nafaka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirza-z/Repo12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirza-z/Repo12/issues"
+  },
+  "homepage": "https://github.com/mirza-z/Repo12#readme"
+}
